@@ -1,4 +1,4 @@
-
+//przerzucic to na teams
 
 // ZAD 1 
 // #include <iostream>
